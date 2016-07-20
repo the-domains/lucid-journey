@@ -1,0 +1,14 @@
+layout_spectrum: 0.708342449972406
+typography_spectrum: 0.22303630015812814
+color:
+  brandStrength: 0.2898436600808054
+  lightness: 0.8891518458258361
+  saturation: 0.3622377112042159
+  rhythmicContrast: 0.22255038027651608
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: lucid journey
